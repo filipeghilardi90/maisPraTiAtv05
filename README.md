@@ -5,7 +5,7 @@ Um aplicativo simples de gerenciamento de tarefas que permite adicionar, editar 
 - Adicionar novas tarefas
 - Editar tarefas existentes
 - Excluir tarefas
-- - Armazenamento das tarefas no `localStorage` do navegador
+- Armazenamento das tarefas no `localStorage` do navegador
  ## Tecnologias Utilizadas
  - HTML
  - CSS (Tailwind CSS)
